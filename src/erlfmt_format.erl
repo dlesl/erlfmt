@@ -45,7 +45,7 @@
     fold_doc/2
 ]).
 
--define(INDENT, 4).
+-define(INDENT, 2).
 -define(NEXT_BREAK_FITS, [map, list, record, block, 'fun', lc, bc]).
 -define(NEXT_BREAK_FITS_OPS, ['=', '::']).
 
